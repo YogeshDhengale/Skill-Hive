@@ -11,3 +11,16 @@ Follow these steps to set up and run the project locally:
 ```bash
 git clone https://github.com/YogeshDhengale/Skill-Hive.git
 cd Skill-Hive
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start project
+```bash
+npm run dev
+```
+
